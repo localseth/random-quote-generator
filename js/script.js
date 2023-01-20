@@ -25,7 +25,7 @@ const quotes = [
    },
    {
     quote: "Let's jump this jump",
-    source: 'Rod Kimble (Stuntman Extraordinaire',
+    source: 'Rod Kimble (Stuntman Extraordinaire)',
     citation: 'Hot Rod',
     year: 2007,
     tag: 'Instant Classics'
