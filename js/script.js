@@ -24,11 +24,11 @@ const quotes = [
     tag: 'literature'
    },
    {
-    quote: 'In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex.',
-    source: 'Dwight D. Eisenhower',
-    citation: 'Farewell Address',
-    year: 1961,
-    tag: 'politics'
+    quote: "Let's jump this jump",
+    source: 'Rod Kimble (Stuntman Extraordinaire',
+    citation: 'Hot Rod',
+    year: 2007,
+    tag: 'Instant Classics'
    },
    {
     quote: 'He who is not contented with what he has, would not be contented with what he would like to have.',
